@@ -90,6 +90,27 @@ The mobile companion app supports:
 Use it for quick and secure verification without needing a PC.
 
 ---
+## 📸 ScreenShots
+
+1. **Home Page** <br>
+![image](https://github.com/user-attachments/assets/e1962e90-dd80-4c4d-859d-130e78319b37)
+![image](https://github.com/user-attachments/assets/6c865ad3-083a-470b-9462-754f8074116f)
+![image](https://github.com/user-attachments/assets/763bbc60-ce6f-42dc-b9dc-479e9720037d)
+![image](https://github.com/user-attachments/assets/ffe40c5e-dc1b-452a-ac43-cf44a68d0f44)<br><br>
+
+2. **Encryption**<br>
+![image](https://github.com/user-attachments/assets/6ea001b5-3193-4967-9a5c-c011063c9903)
+![image](https://github.com/user-attachments/assets/c72a8014-5e04-4738-b8e7-6396af45e239)
+![image](https://github.com/user-attachments/assets/755691fa-eaa7-48d1-919b-e40cfde4126e)
+![image](https://github.com/user-attachments/assets/b01d2a5c-6cec-47d5-b559-42f43913af42)
+![image](https://github.com/user-attachments/assets/7a8400b7-69de-4340-b1b0-e225cb4b6e3d)<br><br>
+
+3. **Working of RSA**<br>
+![image](https://github.com/user-attachments/assets/be915c13-2eea-4613-8e36-9c4bfad35dae)
+![image](https://github.com/user-attachments/assets/99fc3a6a-9007-4629-ae4b-f8c8119cd9bf)
+![image](https://github.com/user-attachments/assets/021f69b1-c1a8-4cff-a08c-4cfea3114cbb)
+![image](https://github.com/user-attachments/assets/c480b929-49e9-42a4-b6cc-5d74a8e0690d)<br><br>
+---
 
 ## 📄 License
 
